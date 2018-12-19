@@ -1,0 +1,10 @@
+Via: web05-online.zeus.ljnode.com
+Content-Encoding: gzip
+Set-Cookie: select_city=320100; expires=Wed, 19-Dec-2018 08:55:37 GMT; Max-Age=86400; path=/; domain=.lianjia.com
+Set-Cookie: all-lj=ba32fa4540e52c45d4c94b9a16e82078; Path=/
+Set-Cookie: lianjia_ssid=cf18ab5a-43db-4d6d-8a18-fe8ed82db5b6; expires=Tue, 18-Dec-18 09:25:37 GMT; Max-Age=1800; domain=.lianjia.com; path=/
+Set-Cookie: lianjia_uuid=f04f8c1f-9fae-4f68-bc27-1a86ec52bf30; expires=Fri, 15-Dec-28 08:55:37 GMT; Max-Age=315360000; domain=.lianjia.com; path=/
+Vary: Accept-Encoding
+Server: Lianjia
+Date: Tue, 18 Dec 2018 08:55:38 GMT
+Content-Type: text/html; charset=UTF-8

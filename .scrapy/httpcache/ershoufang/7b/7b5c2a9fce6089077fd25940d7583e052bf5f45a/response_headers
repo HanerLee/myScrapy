@@ -1,0 +1,10 @@
+Via: web10-online.mars.ljnode.com
+Content-Encoding: gzip
+Set-Cookie: select_city=320100; expires=Wed, 19-Dec-2018 11:40:25 GMT; Max-Age=86400; path=/; domain=.lianjia.com
+Set-Cookie: all-lj=979909237fcf62bcb16b5a6dbd3b060f; Path=/
+Set-Cookie: lianjia_ssid=5d311b69-cb48-4a5c-8a89-88d218c4242a; expires=Tue, 18-Dec-18 12:10:25 GMT; Max-Age=1800; domain=.lianjia.com; path=/
+Set-Cookie: lianjia_uuid=db5140d1-1cc2-462e-9b4a-6b3548ea8cb3; expires=Fri, 15-Dec-28 11:40:25 GMT; Max-Age=315360000; domain=.lianjia.com; path=/
+Vary: Accept-Encoding
+Server: Lianjia
+Date: Tue, 18 Dec 2018 11:40:26 GMT
+Content-Type: text/html; charset=UTF-8
